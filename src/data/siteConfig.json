@@ -1,0 +1,53 @@
+{
+  "name": "NEGOCIOSDOJAPAO",
+  "slug": "negociosdojapao.com.br",
+  "description": "Fundado em 2014 no Estado do Rio de Janeiro, o Blog “Negócios do Japão” já é um meio de comunicação expressivo no cenário nacional. Antes de prover mais conhecimento sobre o nosso Blog, eu preciso te explicar como surgiu o nome. “Negócios do Japão” nada mais é que um ditado, ou uma expressão, que nós criamos na nossa roda de amigos. Chamavam de “negócios da China” todos os melhores negócios que fechavam, e nós começamos chamar de “Negócios do Japão” os negócios melhores ainda. É claro que também temos uma admiração enorme pelo país, cultura e empreendedorismo que existe lá. Bom, agora que você já sabe sobre o nome do Blog, posso te explicar melhor as nossas intenções. De início e meio, nosso objetivo sempre foi informar o maior número de pessoas possível sobre a área de negócios, empreendedorismo e finanças. Ao acontecer uma evolução no nosso Blog, várias pessoas começaram escrever para nós sobre outros assuntos. E como nosso Blog se tornou muito grande no seu nicho, começamos também a fazer alguns posts patrocinados, já que um link do nosso site vale muito para qualquer empresa. Mas isso não é a melhor coisa que tenho pra comunicar a você. O melhor de tudo é que analisamos friamente todos os conteúdos para garantir a qualidade e confiabilidade dos conteúdos postados. Nesse Blog você verá diversos temas relacionados a negócios. Basta visitar nossa página principal e começar a ganhar conhecimento.",
+  "url": "https://negociosdojapao.com.br",
+  "niche": "Negócios e Empreendedorismo",
+  "keywords": "Fundado em 2014 no Estado do Rio de Janeiro o Blog Negocios",
+  "email": "contato@negociosdojapao.com.br",
+  "palette": "ocean",
+  "colors": {
+    "primary": "#0ea5e9",
+    "accent": "#0369a1",
+    "dark": "#0c4a6e"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-G",
+    "hero": "Hero-G",
+    "features": "Features-B",
+    "about": "About-I",
+    "posts": "Posts-A",
+    "footer": "Footer-D",
+    "sobre": "Sobre-F",
+    "contato": "Contato-G"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

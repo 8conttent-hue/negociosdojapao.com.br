@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "NEGOCIOSDOJAPAO — Descubra os Segredos do Empreendedorismo",
+    "description": "Seu portal de informações sobre negócios e finanças no Brasil e Japão."
+  },
+  "hero": {
+    "title": "Descubra os Segredos do Empreendedorismo",
+    "subtitle": "Seu portal de informações sobre negócios e finanças no Brasil e Japão.",
+    "btnText": "Comece a Ler",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Por que Escolher o Negócios do Japão?",
+    "items": [
+      {
+        "icon": "📚",
+        "title": "Conteúdo de Qualidade",
+        "desc": "Artigos revisados e bem pesquisados para garantir que você receba informações confiáveis."
+      },
+      {
+        "icon": "🌍",
+        "title": "Perspectivas Globais",
+        "desc": "Entenda como as práticas de negócios do Japão podem ser aplicadas no contexto brasileiro."
+      },
+      {
+        "icon": "🚀",
+        "title": "Dicas de Empreendedorismo",
+        "desc": "Encontre dicas valiosas para iniciar e gerenciar o seu próprio negócio de forma eficaz."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "desc": "Fundado em 2014 no Estado do Rio de Janeiro, o Blog 'Negócios do Japão' se tornou um importante meio de comunicação sobre negócios e empreendedorismo. Nossa missão é compartilhar conhecimento e insights sobre o mundo dos negócios, inspirando empreendedores em sua jornada.",
+    "stats": [
+      {
+        "value": "10.000+",
+        "label": "Leitores Mensais"
+      },
+      {
+        "value": "500+",
+        "label": "Artigos Publicados"
+      },
+      {
+        "value": "50+",
+        "label": "Contribuidores"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

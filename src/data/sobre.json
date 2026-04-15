@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o NEGOCIOSDOJAPAO"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Fundado em 2014 no Estado do Rio de Janeiro, o Blog 'Negócios do Japão' se tornou um importante meio de comunicação sobre negócios e empreendedorismo. Nossa missão é compartilhar conhecimento e insights sobre o mundo dos negócios, inspirando empreendedores em sua jornada."
+  },
+  "content": "O 'Negócios do Japão' é mais que um blog; é uma comunidade de empreendedores e profissionais que buscam inovação e conhecimento no mundo dos negócios. Através de uma abordagem cuidadosa e analítica, garantimos informações que podem transformar a sua visão empresarial.",
+  "mission": "Capacitar pessoas com conhecimento e ferramentas para que possam ter sucesso em seus negócios, inspirando através da cultura e das práticas de empreendedorismo japonesas.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
